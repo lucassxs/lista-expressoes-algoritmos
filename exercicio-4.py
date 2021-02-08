@@ -1,4 +1,4 @@
-# # Faça um algoritmo que receba 4 notas, calcular e informar a média ponderada, considerando que os pesos são respectivamente 2,2,3,3
+# Faça um algoritmo que receba 4 notas, calcular e informar a média ponderada, considerando que os pesos são respectivamente 2,2,3,3
 
 n1 = int(input('Digite a primeira nota: '))
 n2 = int(input('Digite a segunda nota: '))
